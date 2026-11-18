@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+/Architecture.md
+/Project.md
+/dist/.msibuild-*/
+*.tmp
